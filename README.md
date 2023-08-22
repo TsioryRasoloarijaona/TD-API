@@ -5,3 +5,4 @@ student api :
 https://petstore3.swagger.io/?url=https://raw.githubusercontent.com/TsioryRasoloarijaona/TD-API/main/students.yaml
 
 student put and delete api :
+https://petstore3.swagger.io/?url=https://raw.githubusercontent.com/TsioryRasoloarijaona/TD-API/main/studentadditionnal.json
